@@ -1,0 +1,1 @@
+limite:2000.0kcal, Consumo:380.0 kcal
